@@ -1,4 +1,4 @@
-let day = "8"
+let day = "lunes"
 
 switch(day) {
     case "lunes":
